@@ -1,0 +1,14 @@
+Proposed model:
+Sample 1 (95 bpm)
+Sample 6 (115 bpm)
+Sample 8 (98 bpm)
+
+Without conditioning:
+Sample 2 (120 bpm)
+Sample 4 (100 bpm)
+Sample 9 (90 bpm)
+
+Baseline LSTM:
+Sample 3 (95 bpm)
+Sample 5 (110 bpm)
+Sample 7 (105 bpm)

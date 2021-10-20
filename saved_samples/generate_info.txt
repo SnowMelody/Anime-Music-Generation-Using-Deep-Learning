@@ -1,0 +1,39 @@
+Model 1 Sample 1:
+rnd_num = 123456
+t_m = np.array([2]*256)
+t_f = np.array([3]*6 + [5]*64 + [6]*64 + [0]*64 + [1]*58)
+bpm = 95
+
+Model 1 Sample 2:
+rnd_num = 3911
+t_m = np.array([2]*256)
+t_f = np.array([3]*23 + [4]*64 + [5]*64 + [6]*64 + [7]*32 + [0]*9)
+bpm = 115
+
+Model 1 Sample 3:
+rnd_num = 99999
+bpm = 98
+
+Model 2 Sample 1:
+rnd_num = 54321
+bpm = 120
+
+Model 2 Sample 2:
+rnd_num = 70184
+bpm = 100
+
+Model 2 Sample 3:
+rnd_num = 222222
+bpm = 90
+
+Model 3 Sample 2:
+rnd_num = 123123
+bpm = 95
+
+Model 3 Sample 2:
+rnd_num = 299999
+bpm = 110
+
+Model 3 Sample 3:
+rnd_num = 170184
+bpm = 105
